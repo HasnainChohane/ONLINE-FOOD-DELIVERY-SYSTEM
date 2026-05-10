@@ -163,7 +163,7 @@ Online-Food-Delivery-System/
 
 # Author
 
-## Hasnain Chohan
+## Hasnain Chohane
 
 Founder & Developer
 
