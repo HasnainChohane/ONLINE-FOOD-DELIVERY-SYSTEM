@@ -163,7 +163,7 @@ Online-Food-Delivery-System/
 
 # Author
 
-##Muhammad Hasnain Maqsood (Hasnain Chohan)
+Muhammad Hasnain Maqsood (Hasnain Chohan)
 
 Founder & Developer
 
